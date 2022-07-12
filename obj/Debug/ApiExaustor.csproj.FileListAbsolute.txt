@@ -90,3 +90,5 @@ C:\Users\Dickson\source\repos\ApiExaustor\ApiExaustor\obj\Debug\ApiExaustor.cspr
 C:\Users\Dickson\source\repos\ApiExaustor\ApiExaustor\obj\Debug\ApiExaustor.dll
 C:\Users\Dickson\source\repos\ApiExaustor\ApiExaustor\obj\Debug\ApiExaustor.pdb
 C:\Users\Dickson\source\repos\ApiExaustor\ApiExaustor\obj\Debug\ApiExaustor.csprojAssemblyReference.cache
+C:\Users\Dickson\source\repos\ApiExaustor\ApiExaustor\bin\FIWARE.OrionClient.dll
+C:\Users\Dickson\source\repos\ApiExaustor\ApiExaustor\bin\FIWARE.OrionClient.pdb
